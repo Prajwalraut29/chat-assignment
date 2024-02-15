@@ -9,7 +9,7 @@ const server = http.createServer(app)
 
 const io = new Server(server, {
   cors:{
-    origin:'https://chat-assignment.vercel.app/',
+    origin:'https://app-frontend-chat.onrender.com',
     methods :["GET","POST"]
   },
 })
