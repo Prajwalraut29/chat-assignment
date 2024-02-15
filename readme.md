@@ -38,13 +38,10 @@ Install my-project with npm
 
 ## Screenshots
 
-![screenshot 2](image2.png)
 
+![screenshot 1](image-1.png)
 
-![screenshot 1 ](image-1.png)
-
-
-
+![screenshot 2](image.png)
 
 
 
